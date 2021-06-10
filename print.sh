@@ -20,6 +20,6 @@ echo "bye"
 
 #echo -e"\e[COL-CODEmMESSAGE\e[0m"
 
-echo -e "\e[4;Warning!! There is an error\e[0m"
+echo -e "\e[4;mWarning!! There is an error\e[0m"
 
 echo bye
