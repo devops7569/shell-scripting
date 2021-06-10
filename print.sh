@@ -11,3 +11,5 @@ echo -e "venkatesh \n mounika \n saanvitha"
 echo -e "venkatesh \t \t mounika \n saanvitha"
 
 echo -e "\e[31mplease check the errors!!!!"
+
+echo "bye"
