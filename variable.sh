@@ -18,6 +18,7 @@ FILE2=new.txt
 
 #cp $FILE1 $FILE2
 #if your data is having spaces then use quotes
-echo NAME="welcome to devops"
+NAME="welcome to devops"
 
+echo $NAME
 
