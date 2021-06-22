@@ -23,3 +23,20 @@ NAME="welcome to devops"
 echo $NAME
 echo  "count of apples=${COUNT}no"
 
+#------------------
+#some time we need vaiable dynamicallly
+#EX:
+echo "welcome,Good Morning, Today date is 2021-06-22"
+#above statement makes it wrong because of static date
+#command substituion
+# VAR=$(COMMAND)
+DATE=$(date +%F)
+
+echo "welcome, good morning, Today date is $DATE"
+
+#Arthmatic substution
+ADD=$((2+3+5+6))
+CALC=$((2+3-4*5+6*2/7))
+
+echo ADD = $ADD
+echo CALC = $CALC
