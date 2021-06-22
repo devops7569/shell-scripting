@@ -6,12 +6,11 @@
 sample(){
   echo Hello from sample function
   echo a = $a
- echo  b = 20
+  b = 20
 }
 
 #way2
-function sample1(){
-
+function sample1() {
   echo Hello from sample 1 function
 }
 
