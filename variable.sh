@@ -38,5 +38,5 @@ echo "welcome, good morning, Today date is $DATE"
 ADD=$((2+3+5+6))
 CALC=$((2+3-4*5+6*2/7))
 
-echo ADD = $ADD
-echo CALC = $CALC
+echo "the adding value is " + $ADD
+echo "the calculated value is" + $CALC
