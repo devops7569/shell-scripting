@@ -20,3 +20,5 @@ FILE2=new.txt
 #if your data is having spaces then use quotes
 NAME="welcome to devops"
 
+Echo NAME
+
