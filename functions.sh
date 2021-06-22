@@ -10,7 +10,7 @@ sample(){
 #way2
 sample1(){
 
-  echop Hello from sample 1 function
+  echo Hello from sample 1 function
 }
 
 ##Access the function
