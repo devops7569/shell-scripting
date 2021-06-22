@@ -20,4 +20,4 @@ sample1(){
 a = 10
 sample
 sample1
-echo b = $B
+echo b = $b
