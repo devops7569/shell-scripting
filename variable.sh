@@ -40,5 +40,5 @@ CALC=$((2+3-4*5+6*2/7))
 
 echo "the adding value is " + $ADD
 echo "the calculated value is" + $CALC
-
+A=150
 echo "values of a = $A"
