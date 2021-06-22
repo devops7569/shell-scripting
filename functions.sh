@@ -10,7 +10,7 @@ sample(){
 }
 
 #way2
-function ample1(){
+function sample1(){
 
   echo Hello from sample 1 function
 }
