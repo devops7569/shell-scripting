@@ -21,4 +21,5 @@ FILE2=new.txt
 NAME="welcome to devops"
 
 echo $NAME
+echo  "count of apples=${COUNT}no"
 
