@@ -6,7 +6,7 @@
 sample(){
   echo Hello from sample function
   echo a = $a
-  b = 20
+       b = 20
 }
 
 #way2
@@ -17,7 +17,7 @@ function sample1(){
 
 ## Main Program
 ##Access the function
-a = 10
+a=10
 sample
 sample1
 echo b = $b
