@@ -6,7 +6,7 @@
 sample(){
   echo Hello from sample function
   echo a = $a
-  b = 20
+  b=20
 }
 
 #way2
