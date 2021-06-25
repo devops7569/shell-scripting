@@ -19,7 +19,7 @@ function sample1() {
 ## Main Program
 ##Access the function
 a=10
-sample
+sample xyz
 sample1
 b=100
 echo b = $b
