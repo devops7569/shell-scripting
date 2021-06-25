@@ -4,7 +4,7 @@
 
 #way1
 sample(){
-  return 10
+  return 254
   a=200
   echo Hello from sample function
   echo a = $a
