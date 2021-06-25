@@ -22,7 +22,6 @@ function sample1() {
 a=10
 sample xyz
 echo Exit status of sample function =$?
-
 sample1
 b=100
 echo b = $b
