@@ -4,7 +4,7 @@
 
 #way1
 sample(){
-  return
+  return 10
   a=200
   echo Hello from sample function
   echo a = $a
@@ -21,6 +21,8 @@ function sample1() {
 ##Access the function
 a=10
 sample xyz
+echo Exit status of sample function =$?
+
 sample1
 b=100
 echo b = $b
