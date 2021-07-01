@@ -2,7 +2,7 @@
 set -e
 #echo welcome to frontend
 yum install nginx -y
-false
+#false
 systemctl enable nginx
 systemctl start nginx
 curl -s -L -o /tmp/frontend.zip "https://github.com/roboshop-devops-project/frontend/archive/main.zip"
