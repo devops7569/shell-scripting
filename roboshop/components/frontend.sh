@@ -1,5 +1,5 @@
 #!/bin/bash
-#set -e
+set -e
 #echo welcome to frontend
 yum install nginx -y
 false
